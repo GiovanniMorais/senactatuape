@@ -1,0 +1,11 @@
+Data:25/04/2022
+
+Teste de tomada Senac:121,5 
+Obs:usando o mutimetro e colocando em 200V
+Testando a continuidade do cabo de força:
+Obs:colocando um cabo do mutimetro em um lado e outro no outro lado do cabo deu:0,00
+Testando o cabo de força ligando na tomada:
+Ligando a fonte de alimentaçao
+Testando a corrente continua da fonte:
+Obs:laranja3,30/vermelho5,50/amarelo11,99
+testandor profissional: tudo ok
